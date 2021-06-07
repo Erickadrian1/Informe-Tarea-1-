@@ -32,7 +32,7 @@
 
 •	Aprender a transformar los diferentes valores que existen en cálculos electrónicos en notación de potencias de diez
 
-•	Observar la diferencia que existe entre los tipos de diagrama que hay, a la hora de esquematizar un circuito.
+•	Observar la diferencia que existe entre los tipos de diagrama que hay, a la hora de esquematizar un circuito. 
 
 
 •	Definir correctamente la diferencia entre conductor, aislante y semiconductor en las cargas eléctricas 
